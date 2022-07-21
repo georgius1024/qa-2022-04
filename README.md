@@ -8,3 +8,8 @@ This file is edited twice
 
 ### Installation instructions
 Lorem ipsum lalala
+
+### Todo list
+* 1
+* 2
+* 3
