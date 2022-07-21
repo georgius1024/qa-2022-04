@@ -1,5 +1,4 @@
 ### otus-qa-2022-04
-This file is edited twice
 
 ### Feature list 
 * 1
@@ -13,3 +12,5 @@ Lorem ipsum lalala
 * 1
 * 2
 * 3
+
+Updated on site
