@@ -5,3 +5,6 @@ This file is edited twice
 * 1
 * 2
 * 3
+
+### Installation instructions
+Lorem ipsum lalala
